@@ -1,0 +1,11 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 10%;
+  }
+
+  input.input-error
+  select.input-error{
+    border-color: #f10909;
+  }
